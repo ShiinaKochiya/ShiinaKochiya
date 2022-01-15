@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Sakura Kaslana, also known as Paul Vincent and The Angelina Simp
+- 🤖️ Currently the main dev of https://github.com/SakuraKaslana/angelina-chan-sc
+- 👀 I’m interested in writing minecraft mods or sth idk
+- 🌱 Currently learning JavaScript (Node.js and Discord.js to be specific | Planned to learn Python soon)
+- 📫 Reach me via Discord: Sakura Kochiya#5414 or email: sakuragd1412@gmail.com
+- 📷 My super dead Youtube channel: https://www.youtube.com/channel/UCrn9I5aDXQ5Azk_K0_9EqYg
 
 <!--
 **SakuraKaslana/SakuraKaslana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
