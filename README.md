@@ -3,7 +3,7 @@
 - 🌱 Currently learning JavaScript (Node.js and Discord.js to be specific | Planned to learn Python soon)
 - 📫 Reach me via Discord: Sakura Kochiya#5414 or email: sakuragd1412@gmail.com
 - 📷 My super dead Youtube channel: https://www.youtube.com/channel/UCrn9I5aDXQ5Azk_K0_9EqYg
-
+- A literal dumb ass :D
 <!--
 **SakuraKaslana/SakuraKaslana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
