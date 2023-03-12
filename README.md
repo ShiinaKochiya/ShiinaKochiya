@@ -1,4 +1,4 @@
-[![Sakana Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakanaKochiya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sakana Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakanaKochiya&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=SakanaKochiya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
