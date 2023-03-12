@@ -1,3 +1,7 @@
+[![Sakana Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakanaKochiya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 - 👋 Hi, I’m Sakura Kaslana, also known as Paul Vincent and The Angelina Simp
 - 🤖️ Currently the main dev of https://github.com/SakuraKaslana/angelina-chan-sc
 - 🌱 Currently learning JavaScript (Node.js and Discord.js to be specific | Planned to learn Python soon)
