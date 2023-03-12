@@ -2,12 +2,16 @@
 
 
 
-- 👋 Hi, I’m Sakura Kaslana, also known as Paul Vincent and The Angelina Simp
-- 🤖️ Currently the main dev of https://github.com/SakuraKaslana/angelina-chan-sc
-- 🌱 Currently learning JavaScript (Node.js and Discord.js to be specific | Planned to learn Python soon)
-- 📫 Reach me via Discord: Sakura Kochiya#5414 or email: sakuragd1412@gmail.com
+- 👋 Hi, I’m Sakana Kochiya, also known as Paul Vincent, Shiina Kochiya and The Angelina Simp
+- 🎮 I play a few games, most of them are rhythm games. The one I'm currently active in is Arknights, Honkai Impact 3rd, Maimai, Chunithm, Arcaea, Project Sekai and Phigros
+- 🤖️ Main dev of https://github.com/SakanaKochiya/angelina-chan-sc
+- 🤝 Co-leader of a team called CA25
+- 🌱 Currently learning JavaScript and Python (Node.js and Discord.js to be specific | Planned to learn C# soon)
+- 📫 Reach me via Discord: Shiina Kochiya#5414 or email: sakuragd1412@gmail.com
 - 📷 My super dead Youtube channel: https://www.youtube.com/channel/UCrn9I5aDXQ5Azk_K0_9EqYg
 - A literal dumb ass :D
+
+
 <!--
 **SakuraKaslana/SakuraKaslana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
