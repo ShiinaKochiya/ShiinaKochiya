@@ -1,4 +1,4 @@
-[![Shiina Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakanaKochiya&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Shiina Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakanaKochiya&show_icons=true&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=SakanaKochiya&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Shiina Kochiya's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shiina_Kochiya&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
