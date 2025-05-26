@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m Shiina Kochiya / シイナ • コチヤ, also known as Paul Vincent and The Angelina Simp
-- 🎮 Play games to enjoy, no longer hard grinding. Currently active in Arknights, Balatro, Valorant and Honkai: Star Rail. Semi-active on Strinova, Left 4 Dead 2, Honkai Impact and rhythm games (maimai, Project Sekai, Arcaea,...)
+- 🎮 Play games to enjoy, no longer hard grinding. Currently active in Arknights, Balatro, Valorant and Wuthering Waves. Semi-active on Strinova, Left 4 Dead 2, Honkai Impact, Honkai: Star Rail and rhythm games (maimai, Project Sekai, Arcaea,...)
 - 🤖️ Creator of Discord Bot Angelina-chan (https://github.com/ShiinaKochiya/angelina-chan-sc) and Balatro mod BalaKnights (https://github.com/ShiinaKochiya/BalaKnights)
 - 🤝 Co-leader of a team called CA25. Working with Arknights Vietnam Station and Team Nameless* (MSOC)
 - 🌱 Primary languague: JavaScript (Node/React) | Can work with Java but preferred not to (I hate Java), Python and Lua
