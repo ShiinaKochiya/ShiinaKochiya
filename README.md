@@ -1,13 +1,11 @@
-[![Shiina Kochiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiinaKochiya&show_icons=true&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiinaKochiya&theme=gotham&border_color=0fffbf)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="400" alt="New Project (21)" src="https://github.com/user-attachments/assets/a5544a73-5f5e-4f9a-9ed9-4f1e63e36cc0" />
+  <br>
+  <strong><i><a href="https://www.youtube.com/watch?v=sqS0fMeoMJQ">I'm remade, I reignite</a></i></strong>
+</div>
 
+<div align="center"><h1><strong>👋 Welcome to my Github page!</strong></h1></div>
 
+I’m Shiina Kochiya / シイナ • コチヤ, also known as Paul Vincent, VH and The Angelina/Gilberta Simp! I do stupid stuff that I want to make, and have ideas that no one asked for but still do anyway. Mainly work with JavaScript/TypeScript (Next/React) but I can work with other languagues like Java, Python and Lua.
 
-- 👋 Hi, I’m Shiina Kochiya / シイナ • コチヤ, also known as Paul Vincent and The Angelina Simp
-- 🎮 Play games to enjoy, no longer hard grinding. Currently active in Arknights, Balatro, Valorant and Wuthering Waves. Semi-active on Strinova, Left 4 Dead 2, Honkai Impact, Honkai: Star Rail and rhythm games (maimai, Project Sekai, Arcaea,...)
-- 🤖️ Creator of Discord Bot Angelina-chan (https://github.com/ShiinaKochiya/angelina-chan-sc) and Balatro mod BalaKnights (https://github.com/ShiinaKochiya/BalaKnights)
-- 🤝 Co-leader of a team called CA25. Working with Arknights Vietnam Station and Team Nameless* (MSOC)
-- 🌱 Primary languague: JavaScript (Node/React) | Can work with Java but preferred not to (I hate Java), Python and Lua
-- 📫 Reach me via Discord: shiina_kochiya
-- 📷 My super dead Youtube channel: https://www.youtube.com/channel/UCrn9I5aDXQ5Azk_K0_9EqYg
-- A literal dumb ass :D
+Student at [RMIT](https://github.com/RMIT-Vietnam-Teaching), Media member of [RMIT Japanese Culture Club](https://www.facebook.com/JCC.RMIT) and Technology member of [RMIT Neo Culture Tech](https://github.com/RMIT-Vietnam-Teaching). I also made [Angelina-chan](https://github.com/ShiinaKochiya/angelina-chan-sc), a Discord bot and [BalaKnights](https://github.com/ShiinaKochiya/BalaKnights), a random Balatro mod.
