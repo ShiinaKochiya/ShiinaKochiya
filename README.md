@@ -19,6 +19,8 @@ Beside coding, I also use Blender to make memes (And mainly post it on Reddit) a
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,blender,cloudflare,discordjs,figma,github,git,)](https://skillicons.dev)
 
+[My website](https://port.shiinakochiya.space)
+
 I also game, mostly playing Shooters (VALORANT, THE FINALS, Strinova, theHunt), Rhythm Games (maimai, CHUNITHM, Arcaea,...), Gacha (Arknights, Endfield, WuWa, Uma JP,...) and Mahjong.
 
 <br>
