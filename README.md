@@ -32,7 +32,7 @@ Arknights: ShiinaKochiya#4108 (Global)
 <br>Wuthering Waves: 905996084 (Asia)
 <br>Steam: https://steamcommunity.com/id/shiinakochiya/
 <br>VALORANT: シイナ コチヤ#AMS
-<br>THE FINALS/ARC Radiers: Angelina_Ajimu#0187
+<br>THE FINALS/ARC Raiders: Angelina_Ajimu#0187
 <br>maimai: 8092127177331
 
 <div align="center">
